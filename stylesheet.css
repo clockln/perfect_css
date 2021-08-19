@@ -1,0 +1,12 @@
+.apply_css{
+  display: inline-block;
+  border:1px solid;
+  border-radius: 15px;
+  padding: 5px;
+  padding-bottom: 15px;
+}
+
+.text{
+  position: relative;
+  left:30px;
+}
